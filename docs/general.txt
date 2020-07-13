@@ -1,7 +1,14 @@
-# General blocking
+# This blocklist is for general blocking - domains that are sketchy, deceiving or otherwise are generally nasty domains.
+#
+#
+# Project home page: https://github.com/hostphyl/
+# ============================
+
 ad.sapixmedia.com
 azdigitalsoft.com
 features.me
 friendsforminecraft.com
 livesexasian.me
 tumblr.com
+
+# ============================
