@@ -1,2 +1,1 @@
-# it-blocklists
-Website blocklists for site pihole installations
+# Crowd-sourced blocklists for pihole
