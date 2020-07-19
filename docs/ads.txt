@@ -1,15 +1,10 @@
-# This blocklist is for general blocking - domains that are sketchy, deceiving or otherwise are not reputable.
+# This blocklist is for ad/adware domains - anything that serves, tracks, or otherwise has to do with advertisments.
 #########
 # This list is part of a larger series of crowd-sourced blocklists that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/hostphyl/
 # ============================
 
-azdigitalsoft.com
-features.me
-friendsforminecraft.com
-livesexasian.me
-tumblr.com
-firfox.com
+ad.sapixmedia.com
 
 # ============================
