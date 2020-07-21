@@ -5,7 +5,7 @@ In the spirit of pihole users and creators, I wanted to create my own blocklists
 The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. This is due to how often the lists can change from additions and deletions. These lists are provided free of charge and are open for use by anyone.
 # Getting Started
 ## Start Using
-All lists are accessible using `blocklists.kitsapcreator.com/<blocklist-name-here>.txt`, or `blocklists.kitsapcreator.com/social/<blocklist-name-here>.txt` for social network blocklists. Basically, just put the path for the list you want after the domain.
+All lists are accessible using `blocklists.kitsapcreator.com/<blocklist-name-here>.txt`, or `blocklists.kitsapcreator.com/social/<blocklist-name-here>.txt` for social network blocklists. Basically, just put the path for the list you want after `blocklists.kitsapcreator.com`.
 
 This domain uses the Cloudflare CDN (Content Delivery Network) for accelerated delivery around the world, so you shouldn't experience much delay in pulling updates from these lists. Also, feel free to ping them and pull updates as often as you wish; the more the merrier.
 ## Contribute
