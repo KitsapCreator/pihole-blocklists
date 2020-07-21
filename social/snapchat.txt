@@ -1,0 +1,68 @@
+# This blocklist is for Snapchat and related domains.
+#########
+# This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
+# View the GitHub project to learn how to use and contribute.
+# Project home page: https://github.com/hostphyl/pihole-blocklists
+# ============================
+
+chat-gateway-prod.chat.snapchat.com
+www.snapchat.com
+snapchat.com
+snap.com
+feelinsonice-mvm.l.google.com
+feelinsonice-hrd.appspot.com
+app.snapchat.com
+mvm.snapchat.com
+pro-accounts.snapchat.com
+auth.snapchat.com
+api.snapkit.com
+sc-cdn.net
+gcs.sc-cdn.net
+jaguar-prod.snapchat.com
+st.sc-jpl.com
+gtq.sct.sc-prod.net
+am-prod.sc-jpl.com
+s.sc-cdn.net
+cf-st.sc-cdn.net
+bolt-gcdn.sc-cdn.net
+us-east1-aws.api.snapchat.com
+images.bitmoji.com
+us-east1-aws.api.snapchat.com
+api.snapchat.com
+us-east1-aws.api.sc-gw.com
+snap-storage-cdn.l.google.com
+snap.events.mapbox.com
+ms.sc-jpl.com
+snap.api.mapbox.com
+st-lb.sc-jpl.com
+loc.sc-jpl.com
+cognac-prod.appspot.com
+scm.sc-jpl.com
+us-central1-gcp.api.sc-gw.com
+us-central1-gcp.api.snapchat.com
+map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+snapchat.appspot.com
+sc-analytics.appspot.com
+feelinsonice.appspot.com
+feelinsonice-hrd.appspot.com
+feelinsonice.com
+feelinsonice.appspot.com
+appspot.l.google.com
+data.flurry.com
+ase.adserver.snapads.com
+euw.adserver.snapads.com
+use.adserver.snapads.com
+usc.adserver.snapads.com
+app-analytics.snapchat.com
+app.snapchat.com
+aws.api.snapchat.com
+cf-st.sc-cdn.net
+chat-gateway-prod.chat.snapchat.com
+gtq.sct.sc-prod.ne
+tib.snssdk.com
+loca.sc-jpl.com
+mvm.snapchat.com
+us-central1-gcp.api.snapchat.com
+loca.sc-jpl.com
+
+# ============================
