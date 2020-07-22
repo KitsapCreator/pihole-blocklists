@@ -1,10 +1,10 @@
-# This blocklist is for Reddit and related domains.
+# This blocklist is for Instagram and related domains.
 #########
 # This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/hostphyl/pihole-blocklists
 # ============================
 
-(^|\.)reddit\.com$
+(^|\.)instgram\.com$
 
 # ============================

@@ -7,10 +7,10 @@
 
 apps.facebook.com
 connect.facebook.net
-facebook.com
-fbcdn.com
-fbsbx.com
-fbcdn.net
+(^|\.)facebook\.com$
+(^|\.)fbcdn\.com$
+(^|\.)fbsbx\.com$
+(^|\.)fbcdn\.net$
 graph.facebook.com
 login.facebook.com
 s-static.ak.facebook.com
