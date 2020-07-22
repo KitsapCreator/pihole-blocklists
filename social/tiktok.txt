@@ -27,7 +27,7 @@ dm.bytedance.com
 sgali3.l.byteoversea.net
 tiktokcdn-com.akamaized.net
 ibytedtos.com
-muscdn.com$
-musical.ly$
+muscdn.com
+musical.ly
 
 # ============================
