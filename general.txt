@@ -5,6 +5,8 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+(\.|^)online-metrix\.net$ # Localhost port scanning script
+(\.|^)src\.ebay-us\.com$ # Metrix localhost port scanning
 (\.|^)mooma\.sh$
 azdigitalsoft.com
 features.me
