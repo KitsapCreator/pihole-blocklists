@@ -11,6 +11,10 @@ connect.facebook.net
 (^|\.)fbcdn\.com$
 (^|\.)fbsbx\.com$
 (^|\.)fbcdn\.net$
+facebook.com
+fbcdn.com
+fbcdn.net
+fbsbx.com
 graph.facebook.com
 login.facebook.com
 s-static.ak.facebook.com
