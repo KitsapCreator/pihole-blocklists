@@ -5,6 +5,7 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+(\.|^)mooma\.sh$
 azdigitalsoft.com
 features.me
 friendsforminecraft.com
