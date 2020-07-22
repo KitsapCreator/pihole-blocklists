@@ -7,5 +7,12 @@ The lists contained here are provided as is, with no warranty as to their accura
 ## Start Using
 All lists are accessible using `blocklists.kitsapcreator.com/<blocklist-name-here>.txt`, or `blocklists.kitsapcreator.com/social/<blocklist-name-here>.txt` for social network blocklists. Basically, just put the path for the list you want after `blocklists.kitsapcreator.com`.
 
-This domain uses the Cloudflare CDN (Content Delivery Network) for accelerated delivery around the world, so you shouldn't experience much delay in pulling updates from these lists. Also, feel free to ping them and pull updates as often as you wish; the more the merrier.
+This domain uses the Cloudflare CDN (Content Delivery Network) for accelerated delivery around the world, so you shouldn't experience much delay in pulling updates from these lists. Also, feel free to ping and pull updates as often as you wish; the more the merrier.
 ## Contribute
+1. Start by searching lists for the domains you wish to propose additions to avoid duplicates.
+2.  Fork the repo, make your changes, then create a pull request so changes can be discussed.
+* Use these same steps can be used when proposing subtractions.
+* Use the Issues tab to report false positives and other problems.
+* Before creating an issue, look to see if your problem has already been raised by someone else to prevent duplicate issues.
+## Tips and Tricks
+* 
