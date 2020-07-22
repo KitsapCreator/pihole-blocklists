@@ -5,6 +5,6 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
-(^|\.)reddit\.com$
+reddit.com
 
 # ============================
