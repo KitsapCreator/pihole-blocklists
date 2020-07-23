@@ -5,6 +5,7 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
-(^|\.)instgram\.com$
+instgram.com
+www.instagram.com
 
 # ============================
