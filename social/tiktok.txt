@@ -7,8 +7,11 @@
 
 p16-tiktokcdn-com.akamaized.net
 tiktok.com
+www.tiktok.com
 tiktok.org
+www.tiktok.org
 tiktokcdn.com
+www.tiktokcdn.com
 tiktokv.com
 muscdn.com
 musical.ly
