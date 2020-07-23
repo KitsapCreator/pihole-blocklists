@@ -5,15 +5,16 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
-(\.|^)online-metrix\.net$ # Localhost port scanning script
-(\.|^)src\.ebay-us\.com$ # Metrix localhost port scanning
-(\.|^)mooma\.sh$
+online-metrix.net
+src.ebay-us.com
+mooma.sh
 azdigitalsoft.com
 features.me
 friendsforminecraft.com
 livesexasian.me
 tumblr.com
 firfox.com
+www.firfox.com
 2013bostonbombing.com
 2013bostonbombs.com
 2ndbostonmassacre.com
