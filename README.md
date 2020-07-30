@@ -18,7 +18,7 @@ This domain uses the Cloudflare CDN (Content Delivery Network) for accelerated d
 ## Tips and Tricks
 * Use forks to regulate list updates if you don't want frequent changes. In this way you control when changes reach your setup.
 # Notes
-This project is not a place to help you setup, configure, or troubleshoot your pihole or network setup. It is assumed that you know the basics of setting up and using pihole and related technologies associated with it, including how to add blocklists to pihole. If you need help setting up and configuring your pihole, visit the [Official Pi-hole website](https://pi-hole.net/), [forum](https://discourse.pi-hole.net/), and [Github Project](https://github.com/pi-hole/pi-hole).
+This project is not a place to help you setup, configure, or troubleshoot your pihole or network setup. It is assumed that you know the basics of setting up and using pihole and related technologies associated with it, including how to add blocklists to pihole. If you need help setting up and configuring your pihole, visit the [Official Pi-hole website](https://pi-hole.net/), [forum](https://discourse.pi-hole.net/), [subreddit](https://www.reddit.com/r/pihole/), and [Github Project](https://github.com/pi-hole/pi-hole).
 
 If you have any questions about this project, open an issue and let's have a discussion!
 
