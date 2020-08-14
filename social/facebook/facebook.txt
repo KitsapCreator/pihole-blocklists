@@ -487,6 +487,7 @@ scontent-sjc2-1.xx.fbcdn.net
 scontent-vie.xx.fbcdn.net
 scontent.fsjc1-2.fna.fbcdn.net
 scontent.fsnc1-1.fna.fbcdn.net
+scontent-ams4-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 sonar-iad.xx.fbcdn.net
 sphotos-a-ams.xx.fbcdn.net
