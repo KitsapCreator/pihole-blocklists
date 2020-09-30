@@ -5,6 +5,7 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+elonxfond.info
 1n.yarrid.com
 1stireland.com
 www.1stireland.com
