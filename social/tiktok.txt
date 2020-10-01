@@ -1,6 +1,6 @@
 # This blocklist is for Tiktok and related domains.
 #########
-# This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
+# This list is part of a series of blocklists maintained in my spare time that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
