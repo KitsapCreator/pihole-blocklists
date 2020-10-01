@@ -5,6 +5,9 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+win.omgsweeps.info
+omgsweeps.info
+rewards4fan.com
 elonxfond.info
 1n.yarrid.com
 1stireland.com
