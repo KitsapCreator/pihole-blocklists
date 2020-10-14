@@ -5,6 +5,9 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+about.fb.com
+free.facebook.com
+web.facebook.com
 apps.facebook.com
 connect.facebook.net
 facebook.com
