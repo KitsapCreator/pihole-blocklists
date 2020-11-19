@@ -5,6 +5,9 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+researchmy.com
+digiplay9.com
+digiplay.com
 win.omgsweeps.info
 omgsweeps.info
 rewards4fan.com
