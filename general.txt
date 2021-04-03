@@ -5,6 +5,8 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+forwrdnow.com
+www.forwrdnow.com
 www.performdevelopedoverlyapplication.icu
 performdevelopedoverlyapplication.icu
 e629.net
