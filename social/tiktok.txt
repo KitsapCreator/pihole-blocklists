@@ -5,32 +5,28 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
-p16-tiktokcdn-com.akamaized.net
-tiktok.com
-www.tiktok.com
-tiktok.org
-www.tiktok.org
-tiktokcdn.com
-www.tiktokcdn.com
-tiktokv.com
+abtest-va-tiktok.byteoversea.com
+dm-maliva16.byteoversea.com
+dm.bytedance.com
+ibytedtos.com
+mon-va.byteoversea.com
+mon.byteoversea.com
 muscdn.com
 musical.ly
 musically.ly
-v16-tiktokcdn-com.akamaized.net
 p16-tiktokcdn-com.akamaized.net
-v16-tiktokcdn-com.akamaized.net
-mon.byteoversea.com
-mon-va.byteoversea.com
-abtest-va-tiktok.byteoversea.com
 p16.hypstarcdn.com
 sf-tb-sg.ibytedtos.com
-xlog-va.byteoversea.com
-dm-maliva16.byteoversea.com
-dm.bytedance.com
 sgali3.l.byteoversea.net
+tiktok.com
+tiktok.org
 tiktokcdn-com.akamaized.net
-ibytedtos.com
-muscdn.com
-musical.ly
+tiktokcdn.com
+tiktokv.com
+v16-tiktokcdn-com.akamaized.net
+www.tiktok.com
+www.tiktok.org
+www.tiktokcdn.com
+xlog-va.byteoversea.com
 
 # ============================

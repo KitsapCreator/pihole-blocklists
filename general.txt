@@ -5,27 +5,12 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
-forwrdnow.com
-www.forwrdnow.com
-www.performdevelopedoverlyapplication.icu
-performdevelopedoverlyapplication.icu
-e629.net
-www.e629.net
-online-metrix.net
-src.ebay-us.com
-mooma.sh
-azdigitalsoft.com
-features.me
-friendsforminecraft.com
-livesexasian.me
-tumblr.com
-firfox.com
-www.firfox.com
+2ndbostonmassacre.com
 2013bostonbombing.com
 2013bostonbombs.com
-2ndbostonmassacre.com
 attackboston.com
 attackonboston.com
+azdigitalsoft.com
 bitcoinforboston.com
 bitcoinsforboston.com
 bombingboston.com
@@ -125,20 +110,30 @@ bostonvictimsdonation.com
 bostonvictimsfund.com
 bostonvictimsfund.net
 donatetoboston.com
+e629.net
 explosioninboston.com
 explosionsinboston.com
+features.me
+firfox.com
+forwrdnow.com
+friendsforminecraft.com
 heartsandsolesforboston.com
 isurvivedboston.com
+livesexasian.me
 marathonbomb.com
 marathonbombing.com
 marathonexplosion.com
 marathonmemorial.com
 missinginboston.com
+mooma.sh
+online-metrix.net
+performdevelopedoverlyapplication.icu
 pray4boston.com
 rememberbostonmarathon.com
 rememberingboston.com
 savethebostonmarathon.com
 secondbostonmassacre.com
+src.ebay-us.com
 terrorattackboston.com
 terrorinboston.com
 thebostonblast.com
@@ -147,8 +142,13 @@ thebostonexplosion.com
 thebostonmarathonattack.com
 thebostonmarathonbomb.com
 thebostonmarathonbombing.com
-warez.org
+tumblr.com
 warez.com
 warez.net
+warez.org
+www.e629.net
+www.firfox.com
+www.forwrdnow.com
+www.performdevelopedoverlyapplication.icu
 
 # ============================
