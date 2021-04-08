@@ -5,6 +5,10 @@
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+superzoomtech.com
+www.superzoomtech.com
+clarifon.com
+info.clarifon.com
 1n.yarrid.com
 1stireland.com
 1sttheglobal.com
