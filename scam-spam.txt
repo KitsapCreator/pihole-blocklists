@@ -4,7 +4,9 @@
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
-
+getxtra-pc.io
+lovenewtech.co
+www.lovenewtech.co
 superzoomtech.com
 www.superzoomtech.com
 clarifon.com
@@ -962,5 +964,4 @@ yomoun.com
 yuynstore.com
 zedbubble.com
 zgalaxytee.com
-
 # ============================

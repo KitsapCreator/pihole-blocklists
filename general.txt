@@ -4,7 +4,8 @@
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
-
+truegadgetreviews.com
+searchfavorites.net
 2ndbostonmassacre.com
 2013bostonbombing.com
 2013bostonbombs.com
@@ -150,5 +151,4 @@ www.e629.net
 www.firfox.com
 www.forwrdnow.com
 www.performdevelopedoverlyapplication.icu
-
 # ============================

@@ -3,8 +3,7 @@
 # This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
-# ============================
-
+# =============================
 1-1ads.com
 1rx.io
 2mdn.net
@@ -3498,5 +3497,4 @@ zqtk.net
 zukxd6fkxqn.com
 zy16eoat1w.com
 zzhc.vnet.cn
-
 # ============================
