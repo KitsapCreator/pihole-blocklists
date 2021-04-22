@@ -4,14 +4,13 @@
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
-truegadgetreviews.com
-searchfavorites.net
 2ndbostonmassacre.com
 2013bostonbombing.com
 2013bostonbombs.com
 attackboston.com
 attackonboston.com
 azdigitalsoft.com
+bestsearches.net
 bitcoinforboston.com
 bitcoinsforboston.com
 bombingboston.com
@@ -110,15 +109,21 @@ bostonunderattack.com
 bostonvictimsdonation.com
 bostonvictimsfund.com
 bostonvictimsfund.net
+commonsearches.net
+csearches.net
 donatetoboston.com
 e629.net
 explosioninboston.com
 explosionsinboston.com
+favoritesearches.com
 features.me
 firfox.com
 forwrdnow.com
+frequentsearches.com
 friendsforminecraft.com
+gosearches.net
 heartsandsolesforboston.com
+hysearches.com
 isurvivedboston.com
 livesexasian.me
 marathonbomb.com
@@ -127,14 +132,26 @@ marathonexplosion.com
 marathonmemorial.com
 missinginboston.com
 mooma.sh
+mysearches.net
 online-metrix.net
 performdevelopedoverlyapplication.icu
+popularsearches.net
 pray4boston.com
+qsearch.io
 rememberbostonmarathon.com
 rememberingboston.com
+rsearches.net
 savethebostonmarathon.com
+searchcommons.com
+searchfavorites.net
+searchlists.com
+searchlists.net
+searchthese.net
+searchtopics.net
 secondbostonmassacre.com
+seekify.net
 src.ebay-us.com
+startsearch.net
 terrorattackboston.com
 terrorinboston.com
 thebostonblast.com
@@ -143,6 +160,8 @@ thebostonexplosion.com
 thebostonmarathonattack.com
 thebostonmarathonbomb.com
 thebostonmarathonbombing.com
+truegadgetreviews.com
+truesearches.net
 tumblr.com
 warez.com
 warez.net
@@ -151,4 +170,6 @@ www.e629.net
 www.firfox.com
 www.forwrdnow.com
 www.performdevelopedoverlyapplication.icu
+yfind.io
+ysearches.com
 # ============================
