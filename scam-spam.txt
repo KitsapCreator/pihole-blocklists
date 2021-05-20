@@ -1,16 +1,9 @@
- This blocklist is for scam and spam domains - fraudlent websites, unsolicted offers, and phishing domains.
+# This blocklist is for scam and spam domains - fraudlent websites, unsolicted offers, and phishing domains.
 #########
 # This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
-getxtra-pc.io
-lovenewtech.co
-www.lovenewtech.co
-superzoomtech.com
-www.superzoomtech.com
-clarifon.com
-info.clarifon.com
 1n.yarrid.com
 1stireland.com
 1sttheglobal.com
@@ -70,8 +63,10 @@ boutiqueondemand.com
 bradcroninnapo82.myshopify.com
 breakshirts.com
 breepa.com
+breezemaxxdirect.com
 buddhakind.com
 burgershirt.com
+buybreezemaxx.com
 buydubuy.com
 buzzazone.com
 candlesbymadison.com
@@ -85,6 +80,7 @@ cillva.com
 cinaletlia.com
 cipustar.com
 cityofdream.co.uk
+clarifon.com
 classicraftdesign.com
 clemoa.com
 cloverszone.com
@@ -163,6 +159,7 @@ gearstastic.com
 gearstastic.net
 gearstastics.com
 gearver.com
+getxtra-pc.io
 giftbias.com
 gimboy.com
 gladiadormalas.com.br
@@ -194,6 +191,7 @@ hunterbeus.com
 icelandclothing.myshopify.com
 ikiha.com
 ilpollenza-sorso23.it
+info.clarifon.com
 jaimerico.net
 jakkesalgs.com
 jakkesnorge.com
@@ -232,6 +230,7 @@ lootcrate.com
 loveinbox.co.uk
 loveinheart.co.uk
 loveinsoul.co.uk
+lovenewtech.co
 loveshop20.com
 lrgst.com
 lucatee.com
@@ -292,6 +291,7 @@ norgejakkerbutikk.com
 norgeshoes.com
 oataka.com
 odinpc.com
+offer.buybreezemaxx.com
 oflike.com
 ogogear.com
 oldcube.com
@@ -469,6 +469,7 @@ sunleaftravel.com
 supercutestuff.com
 superitee.com
 superofferte.shop
+superzoomtech.com
 surprisesandgifts.com
 survivalcatsupply.com
 swellsup.com
@@ -584,8 +585,10 @@ www.bossaving.com
 www.bradcroninnapo82.myshopify.com
 www.breakshirts.com
 www.breepa.com
+www.breezemaxxdirect.com
 www.buddhakind.com
 www.burgershirt.com
+www.buybreezemaxx.com
 www.buydubuy.com
 www.buzzazone.com
 www.candlesbymadison.com
@@ -732,6 +735,7 @@ www.lootcrate.com
 www.loveinbox.co.uk
 www.loveinheart.co.uk
 www.loveinsoul.co.uk
+www.lovenewtech.co
 www.loveshop20.com
 www.lrgst.com
 www.lucatee.com
@@ -889,6 +893,7 @@ www.sunleaftravel.com
 www.sunsetstore.net
 www.supercutestuff.com
 www.superofferte.shop
+www.superzoomtech.com
 www.surprisesandgifts.com
 www.survivalcatsupply.com
 www.swellsup.com
