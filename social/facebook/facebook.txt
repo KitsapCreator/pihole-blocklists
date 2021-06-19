@@ -1,10 +1,3 @@
-# This blocklist is for Facebook and related domains.
-#########
-# This list is part of a series of blocklists maintained in my spare time that are free and open for use by everyone.
-# View the GitHub project to learn how to use and contribute.
-# Project home page: https://github.com/kitsapcreator/pihole-blocklists
-# ============================
-
 0-act.channel.facebook.com
 0-edge-chat.facebook.com
 1-act.channel.facebook.com
@@ -991,5 +984,3 @@ z-m.c10r.facebook.com
 z-m.facebook.com
 zh-cn.facebook.com
 zh-tw.facebook.com
-
-# ============================
