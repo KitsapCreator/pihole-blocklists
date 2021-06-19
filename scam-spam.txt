@@ -1,18 +1,12 @@
-# This blocklist is for scam and spam domains - fraudlent websites, unsolicted offers, and phishing domains.
-#########
-# This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
-# View the GitHub project to learn how to use and contribute.
-# Project home page: https://github.com/kitsapcreator/pihole-blocklists
-# ============================
 1n.yarrid.com
 1stireland.com
 1sttheglobal.com
 1sttheworld.co
 1sttheworld.com
 1sttheworld.online
+68blessed.com
 7.shopsharm.ru
 9to5outlet.com
-68blessed.com
 abedsetz.com
 acquatee.com
 adidasko.com
@@ -485,6 +479,7 @@ sunleaftravel.com
 supercutestuff.com
 superitee.com
 superofferte.shop
+superprostaterx.com
 superzoomtech.com
 surprisesandgifts.com
 survivalcatsupply.com
@@ -991,4 +986,3 @@ yomoun.com
 yuynstore.com
 zedbubble.com
 zgalaxytee.com
-# ============================

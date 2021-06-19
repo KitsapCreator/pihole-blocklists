@@ -1,12 +1,6 @@
-# This blocklist is for general blocking - domains that are sketchy, suspicious, deceiving, or otherwise are not reputable.
-#########
-# This list is part of a series of blocklists maintained in my spare time that are free and open for use by everyone.
-# View the GitHub project to learn how to use and contribute.
-# Project home page: https://github.com/kitsapcreator/pihole-blocklists
-# ============================
-2ndbostonmassacre.com
 2013bostonbombing.com
 2013bostonbombs.com
+2ndbostonmassacre.com
 attackboston.com
 attackonboston.com
 azdigitalsoft.com
@@ -121,6 +115,7 @@ firfox.com
 forwrdnow.com
 frequentsearches.com
 friendsforminecraft.com
+gamez6.com
 gosearches.net
 heartsandsolesforboston.com
 hysearches.com
@@ -141,6 +136,7 @@ qsearch.io
 rememberbostonmarathon.com
 rememberingboston.com
 rsearches.net
+s1.gamez6.com
 savethebostonmarathon.com
 searchcommons.com
 searchfavorites.net
@@ -169,7 +165,7 @@ warez.org
 www.e629.net
 www.firfox.com
 www.forwrdnow.com
+www.gamez6.com
 www.performdevelopedoverlyapplication.icu
 yfind.io
 ysearches.com
-# ============================

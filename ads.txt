@@ -1,42 +1,37 @@
-# This blocklist is for ad/adware domains - anything that serves, tracks, or otherwise has to do with advertisments.
-#########
-# This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
-# View the GitHub project to learn how to use and contribute.
-# Project home page: https://github.com/kitsapcreator/pihole-blocklists
-# =============================
 1-1ads.com
-1rx.io
-2mdn.net
-2o7.net
-2znp09oa.com
-3lift.com
-4affiliate.net
-4d5.net
-4info.com
-4jnzhl0d0.com
-5mcwl.pw
-6ldu6qa.com
-7bpeople.com
-7search.com
-24log.com
-24log.de
-24pm-affiliation.com
-30ads.com
-33across.com
-50websads.com
-51yes.com
-77tracking.com
-82o9v830.com
 101com.com
 101order.com
 123freeavatars.com
 180hits.de
 180searchassistant.com
+1rx.io
 207.net
 247media.com
+24log.com
+24log.de
+24pm-affiliation.com
+2mdn.net
+2o7.net
+2znp09oa.com
+30ads.com
+33across.com
 360yield.com
+3lift.com
+4affiliate.net
+4d5.net
+4info.com
+4jnzhl0d0.com
+50websads.com
 518ad.com
+51yes.com
+5mcwl.pw
+6ldu6qa.com
 777partner.com
+77tracking.com
+7bpeople.com
+7search.com
+82o9v830.com
+Adsatt.go.starwave.com
 a.aproductmsg.com
 a.consumer.net
 a.mktw.net
@@ -90,8 +85,8 @@ ad-server.gulasidorna.se
 ad-space.net
 ad-tech.com
 ad-up.com
-ad.71i.de
 ad.100.tbn.ru
+ad.71i.de
 ad.a-ads.com
 ad.a8.net
 ad.abcnews.com
@@ -734,6 +729,8 @@ ads1.mediacapital.pt
 ads1.msn.com
 ads1.rne.com
 ads1.virtual-nights.com
+ads10.speedbit.com
+ads180.com
 ads2.brazzers.com
 ads2.clearchannel.com
 ads2.contentabc.com
@@ -748,6 +745,8 @@ ads2.techads.info
 ads2.virtual-nights.com
 ads2.webdrive.no
 ads2.xnet.cz
+ads2004.treiberupdate.de
+ads24h.net
 ads3-adnow.com
 ads3.contentabc.com
 ads3.gamecity.net
@@ -761,16 +760,11 @@ ads5.virtual-nights.com
 ads6.gamecity.net
 ads7.gamecity.net
 ads8.com
-ads10.speedbit.com
-ads24h.net
-ads180.com
-ads2004.treiberupdate.de
 adsafeprotected.com
 adsatt.abc.starwave.com
 adsatt.abcnews.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
-Adsatt.go.starwave.com
 adsby.bidtheatre.com
 adsbydelema.com
 adscale.de
@@ -2195,9 +2189,9 @@ lzjl.com
 m.trb.com
 m1.webstats4u.com
 m2.ai
+m32.media
 m4n.nl
 m6r.eu
-m32.media
 mackeeperapp.mackeeper.com
 madclient.uimserv.net
 madcpms.com
@@ -2819,9 +2813,9 @@ rundsp.com
 ruthlessrobin.com
 s.adroll.com
 s1-adfly.com
-s2d6.com
 s20dh7e9dh.com
 s24hc8xzag.com
+s2d6.com
 sabio.us
 sageanalyst.net
 sail-horizon.com
@@ -3149,11 +3143,11 @@ top-site-list.com
 top.list.ru
 top.mail.ru
 top.proext.com
-top20free.com
-top90.ro
 top100-images.rambler.ru
 top100.mafia.ru
 top123.ro
+top20free.com
+top90.ro
 topbucks.com
 topforall.com
 topgamesites.net
@@ -3201,9 +3195,9 @@ tracker.samplicio.us
 tracker.vgame.us
 tracking.1-a1502-bi.co.uk
 tracking.1-kv015-ap.co.uk
-tracking.5-47737-bi.co.uk
 tracking.21-a4652-bi.co.uk
 tracking.42-01pr5-osm-secure.co.uk
+tracking.5-47737-bi.co.uk
 tracking.crunchiemedia.com
 tracking.epicgames.com
 tracking.gajmp.com
@@ -3214,9 +3208,9 @@ tracking.miui.com
 tracking.olx-st.com
 tracking.publicidees.com
 tracking01.walmart.com
+tracking101.com
 tracking22.com
 tracking42.com
-tracking101.com
 trackingfestival.com
 trackingsoft.com
 tracklink-tel.de
@@ -3474,8 +3468,8 @@ ymetrica1.com
 yoggrt.com
 ypu.samsungelectronics.com
 z3dmbpl6309s.com
-z5x.net
 z501lpfg9x8v.com
+z5x.net
 zanox-affiliate.de
 zanox.com
 zantracker.com
@@ -3497,4 +3491,3 @@ zqtk.net
 zukxd6fkxqn.com
 zy16eoat1w.com
 zzhc.vnet.cn
-# ============================
