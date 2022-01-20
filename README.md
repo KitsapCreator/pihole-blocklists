@@ -1,5 +1,5 @@
 ## Summary
-In the spirit of pihole users and creators, I wanted to create my own blocklists. I decided to share them with the world to help contribute to the ovberall community. On that note, welcome!
+In the spirit of pihole users and creators, I wanted to create my own blocklists. I decided to share them with the world to help contribute to the overall community. On that note, welcome!
 ## Disclaimer
 The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time. These lists are collections of domains I have come across or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases.
 # Getting Started
