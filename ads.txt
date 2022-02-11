@@ -1,4 +1,3 @@
-appmetrica.yandex.com
 1-1ads.com
 101com.com
 101order.com
@@ -1063,6 +1062,7 @@ apolloprogram.io
 app-analytics.snapchat.com
 app.pendo.io
 appboycdn.com
+appmetrica.yandex.com
 appsflyer.com
 aps.hearstnp.com
 apsalar.com
