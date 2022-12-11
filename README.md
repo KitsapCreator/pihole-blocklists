@@ -31,6 +31,15 @@ My domain:\
 JSDelivr:\
 `https://cdn.jsdelivr.net/gh/KitsapCreator/pihole-blocklists/social/general-combined.txt`
 
+## One and Done
+Want one list to rule them all? Look no further.
+
+My domain:\
+`https://blocklists.kitsapcreator.com/all-lists.txt`
+
+JSDelivr:\
+`https://cdn.jsdelivr.net/gh/KitsapCreator/pihole-blocklists/all-lists.txt`
+
 ## Contribute
 1. Start by searching lists for the domains you wish to propose additions to avoid duplicates.
 2. Fork the repo, make your changes, then create a pull request so changes can be discussed.
