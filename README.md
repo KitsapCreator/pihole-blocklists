@@ -17,14 +17,14 @@ You can also use [JSDelivr](https://jsdelivr.com) instead if you wish. Use the f
 ## Combined Lists
 The following is two merged lists - one for all supported social platforms (Facebook, Tiktok, Reddit, etc.) and one for all general lists (Ads, Malware, Scams, etc.).
 
-### Social List
+## Social List
 My domain:\
 `https://blocklists.kitsapcreator.com/social/social-combined.txt`
 
 JSDelivr:\
 `https://cdn.jsdelivr.net/gh/KitsapCreator/pihole-blocklists/social/social-combined.txt`
 
-### General List
+## General List
 My domain:\
 `https://blocklists.kitsapcreator.com/social/general-combined.txt`
 
