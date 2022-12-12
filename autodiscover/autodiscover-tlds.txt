@@ -4316,7 +4316,7 @@ autodiscover.kristiansund.no
 autodiscover.krodsherad.no
 autodiscover.krokstadelva.no
 autodiscover.krym.ua
- autodiscover.ks.ua
+autodiscover.ks.ua
 autodiscover.ks.us
 autodiscover.kuchinotsu.nagasaki.jp
 autodiscover.kudamatsu.yamaguchi.jp
