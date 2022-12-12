@@ -302,7 +302,6 @@ autodiscover.andria-trani-barletta.it
 autodiscover.andriabarlettatrani.it
 autodiscover.andriatranibarletta.it
 autodiscover.android
-autodiscover.andøy.no
 autodiscover.anjo.aichi.jp
 autodiscover.ann-arbor.mi.us
 autodiscover.annaka.gunma.jp
@@ -442,7 +441,6 @@ autodiscover.asker.no
 autodiscover.askim.no
 autodiscover.askoy.no
 autodiscover.askvoll.no
-autodiscover.askøy.no
 autodiscover.asmatart.museum
 autodiscover.asn.au
 autodiscover.asn.lv
@@ -498,7 +496,6 @@ autodiscover.aukra.no
 autodiscover.aure.no
 autodiscover.aurland.no
 autodiscover.aurskog-holand.no
-autodiscover.aurskog-høland.no
 autodiscover.aus.basketball
 autodiscover.auspost
 autodiscover.austevoll.no
@@ -517,7 +514,6 @@ autodiscover.av.it
 autodiscover.av.tr
 autodiscover.avellino.it
 autodiscover.averoy.no
-autodiscover.averøy.no
 autodiscover.avianca
 autodiscover.aviation.museum
 autodiscover.avocat.fr
@@ -774,7 +770,6 @@ autodiscover.bizen.okayama.jp
 autodiscover.bj
 autodiscover.bj.cn
 autodiscover.bjarkoy.no
-autodiscover.bjarkøy.no
 autodiscover.bjerkreim.no
 autodiscover.bjugn.no
 autodiscover.bl.it
@@ -889,7 +884,6 @@ autodiscover.bo.telemark.no
 autodiscover.boats
 autodiscover.boavista.br
 autodiscover.bodo.no
-autodiscover.bodø.no
 autodiscover.boehringer
 autodiscover.bofa
 autodiscover.bokn.no
@@ -963,8 +957,6 @@ autodiscover.brussels.museum
 autodiscover.bruxelles.museum
 autodiscover.bryansk.su
 autodiscover.bryne.no
-autodiscover.brønnøy.no
-autodiscover.brønnøysund.no
 autodiscover.bs
 autodiscover.bs.it
 autodiscover.bsb.br
@@ -1008,17 +1000,6 @@ autodiscover.bz
 autodiscover.bz.it
 autodiscover.bzh
 autodiscover.bzz.dapps.earth
-autodiscover.báhcavuotna.no
-autodiscover.báhccavuotna.no
-autodiscover.báidár.no
-autodiscover.bájddar.no
-autodiscover.bálát.no
-autodiscover.bådåddjå.no
-autodiscover.båtsfjord.no
-autodiscover.bærum.no
-autodiscover.bø.nordland.no
-autodiscover.bø.telemark.no
-autodiscover.bømlo.no
 autodiscover.c.bg
 autodiscover.c.cdn77.org
 autodiscover.c.la
@@ -1931,7 +1912,6 @@ autodiscover.drobak.no
 autodiscover.drr.ac
 autodiscover.drud.io
 autodiscover.drud.us
-autodiscover.drøbak.no
 autodiscover.dscloud.biz
 autodiscover.dscloud.me
 autodiscover.dscloud.mobi
@@ -1995,9 +1975,7 @@ autodiscover.dynu.net
 autodiscover.dynv6.net
 autodiscover.dynvpn.de
 autodiscover.dyroy.no
-autodiscover.dyrøy.no
 autodiscover.dz
-autodiscover.dønna.no
 autodiscover.e.bg
 autodiscover.e.se
 autodiscover.e12.ve
@@ -2407,7 +2385,6 @@ autodiscover.fineart.museum
 autodiscover.finearts.museum
 autodiscover.finland.museum
 autodiscover.finnoy.no
-autodiscover.finnøy.no
 autodiscover.fire
 autodiscover.firebaseapp.com
 autodiscover.firenet.ch
@@ -2455,7 +2432,6 @@ autodiscover.florida.museum
 autodiscover.floripa.br
 autodiscover.florist
 autodiscover.floro.no
-autodiscover.florø.no
 autodiscover.flowers
 autodiscover.flt.cloud.muni.cz
 autodiscover.fly
@@ -2620,7 +2596,6 @@ autodiscover.frosta.no
 autodiscover.froya.no
 autodiscover.frusky.de
 autodiscover.fræna.no
-autodiscover.frøya.no
 autodiscover.fst.br
 autodiscover.ftpaccess.cc
 autodiscover.ftr
@@ -2691,7 +2666,6 @@ autodiscover.fvg.it
 autodiscover.fyi
 autodiscover.fylkesbibl.no
 autodiscover.fyresdal.no
-autodiscover.førde.no
 autodiscover.g.bg
 autodiscover.g.se
 autodiscover.g.vbrplsbx.io
@@ -2800,7 +2774,6 @@ autodiscover.gjerdrum.no
 autodiscover.gjerstad.no
 autodiscover.gjesdal.no
 autodiscover.gjovik.no
-autodiscover.gjøvik.no
 autodiscover.gl
 autodiscover.glade
 autodiscover.glas.museum
@@ -3243,8 +3216,6 @@ autodiscover.herokuapp.com
 autodiscover.herokussl.com
 autodiscover.heroy.more-og-romsdal.no
 autodiscover.heroy.nordland.no
-autodiscover.herøy.møre-og-romsdal.no
-autodiscover.herøy.nordland.no
 autodiscover.hgtv
 autodiscover.hi.cn
 autodiscover.hi.us
@@ -3350,7 +3321,6 @@ autodiscover.hn.cn
 autodiscover.hobby-site.com
 autodiscover.hobby-site.org
 autodiscover.hobol.no
-autodiscover.hobøl.no
 autodiscover.hockey
 autodiscover.hof.no
 autodiscover.hofu.yamaguchi.jp
@@ -3451,15 +3421,6 @@ autodiscover.hyogo.jp
 autodiscover.hyuga.miyazaki.jp
 autodiscover.hyundai
 autodiscover.hzc.io
-autodiscover.hábmer.no
-autodiscover.hámmárfeasta.no
-autodiscover.hápmir.no
-autodiscover.häkkinen.fi
-autodiscover.hå.no
-autodiscover.hægebostad.no
-autodiscover.hønefoss.no
-autodiscover.høyanger.no
-autodiscover.høylandet.no
 autodiscover.i.bg
 autodiscover.i.ng
 autodiscover.i.ph
@@ -3594,7 +3555,6 @@ autodiscover.ind.in
 autodiscover.ind.kw
 autodiscover.ind.tn
 autodiscover.inderoy.no
-autodiscover.inderøy.no
 autodiscover.indian.museum
 autodiscover.indiana.museum
 autodiscover.indianapolis.museum
@@ -3956,8 +3916,6 @@ autodiscover.juniper
 autodiscover.jur.pro
 autodiscover.jus.br
 autodiscover.jx.cn
-autodiscover.jølster.no
-autodiscover.jørpeland.no
 autodiscover.k.bg
 autodiscover.k.se
 autodiscover.k12.ak.us
@@ -4105,7 +4063,6 @@ autodiscover.kariwa.niigata.jp
 autodiscover.kariya.aichi.jp
 autodiscover.karlsoy.no
 autodiscover.karmoy.no
-autodiscover.karmøy.no
 autodiscover.karpacz.pl
 autodiscover.kartuzy.pl
 autodiscover.karuizawa.nagano.jp
@@ -4348,7 +4305,6 @@ autodiscover.kr.it
 autodiscover.kr.ua
 autodiscover.kraanghke.no
 autodiscover.kragero.no
-autodiscover.kragerø.no
 autodiscover.krakow.pl
 autodiscover.krasnik.pl
 autodiscover.krasnodar.su
@@ -4360,9 +4316,7 @@ autodiscover.kristiansund.no
 autodiscover.krodsherad.no
 autodiscover.krokstadelva.no
 autodiscover.krym.ua
-autodiscover.kråanghke.no
-autodiscover.krødsherad.no
-autodiscover.ks.ua
+ autodiscover.ks.ua
 autodiscover.ks.us
 autodiscover.kuchinotsu.nagasaki.jp
 autodiscover.kudamatsu.yamaguchi.jp
@@ -4428,7 +4382,6 @@ autodiscover.kvinesdal.no
 autodiscover.kvinnherad.no
 autodiscover.kviteseid.no
 autodiscover.kvitsoy.no
-autodiscover.kvitsøy.no
 autodiscover.kvæfjord.no
 autodiscover.kvænangen.no
 autodiscover.kw
@@ -4730,7 +4683,6 @@ autodiscover.lund.no
 autodiscover.lundbeck
 autodiscover.lunner.no
 autodiscover.luroy.no
-autodiscover.lurøy.no
 autodiscover.luster.no
 autodiscover.lutsk.ua
 autodiscover.luxe
@@ -4748,9 +4700,6 @@ autodiscover.lynx.mythic-beasts.com
 autodiscover.láhppi.no
 autodiscover.läns.museum
 autodiscover.lærdal.no
-autodiscover.lødingen.no
-autodiscover.lørenskog.no
-autodiscover.løten.no
 autodiscover.m.bg
 autodiscover.m.se
 autodiscover.ma
@@ -4921,7 +4870,6 @@ autodiscover.melbourne
 autodiscover.meldal.no
 autodiscover.melhus.no
 autodiscover.meloy.no
-autodiscover.meløy.no
 autodiscover.members.linode.com
 autodiscover.meme
 autodiscover.memorial
@@ -5131,7 +5079,6 @@ autodiscover.mizumaki.fukuoka.jp
 autodiscover.mizunami.gifu.jp
 autodiscover.mizusawa.iwate.jp
 autodiscover.mjondalen.no
-autodiscover.mjøndalen.no
 autodiscover.mk
 autodiscover.mk.eu.org
 autodiscover.mk.ua
@@ -5211,7 +5158,6 @@ autodiscover.moscow
 autodiscover.moscow.museum
 autodiscover.moseushi.hokkaido.jp
 autodiscover.mosjoen.no
-autodiscover.mosjøen.no
 autodiscover.moskenes.no
 autodiscover.moss.no
 autodiscover.mosvik.no
@@ -5369,7 +5315,6 @@ autodiscover.mz
 autodiscover.málatvuopmi.no
 autodiscover.mátta-várjjat.no
 autodiscover.målselv.no
-autodiscover.måsøy.no
 autodiscover.māori.nz
 autodiscover.n.bg
 autodiscover.n.se
@@ -5908,8 +5853,6 @@ autodiscover.nz.basketball
 autodiscover.nz.eu.org
 autodiscover.návuotna.no
 autodiscover.nååmesjevuemie.no
-autodiscover.nærøy.no
-autodiscover.nøtterøy.no
 autodiscover.o.bg
 autodiscover.o.se
 autodiscover.oamishirasato.chiba.jp
@@ -6286,13 +6229,11 @@ autodiscover.oshu.iwate.jp
 autodiscover.oslo.no
 autodiscover.osoyro.no
 autodiscover.osteroy.no
-autodiscover.osterøy.no
 autodiscover.ostre-toten.no
 autodiscover.ostroda.pl
 autodiscover.ostroleka.pl
 autodiscover.ostrowiec.pl
 autodiscover.ostrowwlkp.pl
-autodiscover.osøyro.no
 autodiscover.ot.it
 autodiscover.ota.gunma.jp
 autodiscover.ota.tokyo.jp
@@ -6693,7 +6634,6 @@ autodiscover.radio.br
 autodiscover.radio.fm
 autodiscover.radom.pl
 autodiscover.radoy.no
-autodiscover.radøy.no
 autodiscover.raffleentry.org.uk
 autodiscover.rag-cloud-ch.hosteur.com
 autodiscover.rag-cloud.hosteur.com
@@ -6766,7 +6706,6 @@ autodiscover.ren
 autodiscover.rendalen.no
 autodiscover.rennebu.no
 autodiscover.rennesoy.no
-autodiscover.rennesøy.no
 autodiscover.rent
 autodiscover.rentals
 autodiscover.rep.br
@@ -6826,7 +6765,6 @@ autodiscover.rishiri.hokkaido.jp
 autodiscover.rishirifuji.hokkaido.jp
 autodiscover.risor.no
 autodiscover.rissa.no
-autodiscover.risør.no
 autodiscover.ritto.shiga.jp
 autodiscover.rivne.ua
 autodiscover.rj.gov.br
@@ -6903,12 +6841,6 @@ autodiscover.ráisa.no
 autodiscover.råde.no
 autodiscover.råholt.no
 autodiscover.rælingen.no
-autodiscover.rødøy.no
-autodiscover.rømskog.no
-autodiscover.røros.no
-autodiscover.røst.no
-autodiscover.røyken.no
-autodiscover.røyrvik.no
 autodiscover.s.bg
 autodiscover.s.se
 autodiscover.s3-ap-northeast-1.amazonaws.com
@@ -7035,17 +6967,14 @@ autodiscover.sanagochi.tokushima.jp
 autodiscover.sanda.hyogo.jp
 autodiscover.sandcats.io
 autodiscover.sande.more-og-romsdal.no
-autodiscover.sande.møre-og-romsdal.no
 autodiscover.sande.vestfold.no
 autodiscover.sandefjord.no
 autodiscover.sandiego.museum
 autodiscover.sandnes.no
 autodiscover.sandnessjoen.no
-autodiscover.sandnessjøen.no
 autodiscover.sandoy.no
 autodiscover.sandvik
 autodiscover.sandvikcoromant
-autodiscover.sandøy.no
 autodiscover.sanfrancisco.museum
 autodiscover.sango.nara.jp
 autodiscover.sanjo.niigata.jp
@@ -7426,7 +7355,6 @@ autodiscover.skin
 autodiscover.skiptvet.no
 autodiscover.skjak.no
 autodiscover.skjervoy.no
-autodiscover.skjervøy.no
 autodiscover.skjåk.no
 autodiscover.sklep.pl
 autodiscover.sko.gov.pl
@@ -7455,7 +7383,6 @@ autodiscover.smart
 autodiscover.smile
 autodiscover.smola.no
 autodiscover.smushcdn.com
-autodiscover.smøla.no
 autodiscover.sn
 autodiscover.sn.cn
 autodiscover.snaase.no
@@ -7595,8 +7522,6 @@ autodiscover.sth.ac.at
 autodiscover.stjohn.museum
 autodiscover.stjordal.no
 autodiscover.stjordalshalsen.no
-autodiscover.stjørdal.no
-autodiscover.stjørdalshalsen.no
 autodiscover.stockholm
 autodiscover.stockholm.museum
 autodiscover.stokke.no
@@ -7709,16 +7634,6 @@ autodiscover.szex.hu
 autodiscover.szkola.pl
 autodiscover.sálat.no
 autodiscover.sálát.no
-autodiscover.søgne.no
-autodiscover.sømna.no
-autodiscover.søndre-land.no
-autodiscover.sør-aurdal.no
-autodiscover.sør-fron.no
-autodiscover.sør-odal.no
-autodiscover.sør-varanger.no
-autodiscover.sørfold.no
-autodiscover.sørreisa.no
-autodiscover.sørum.no
 autodiscover.südtirol.it
 autodiscover.t.bg
 autodiscover.t.se
@@ -7912,7 +7827,6 @@ autodiscover.tjeldsund.no
 autodiscover.tjmaxx
 autodiscover.tjome.no
 autodiscover.tjx
-autodiscover.tjøme.no
 autodiscover.tk
 autodiscover.tkmaxx
 autodiscover.tksat.bo
@@ -8075,7 +7989,6 @@ autodiscover.transporte.bo
 autodiscover.transurl.be
 autodiscover.transurl.eu
 autodiscover.transurl.nl
-autodiscover.tranøy.no
 autodiscover.trapani.it
 autodiscover.travel
 autodiscover.travel.pl
@@ -8132,7 +8045,6 @@ autodiscover.troitsk.su
 autodiscover.trolley.museum
 autodiscover.tromsa.no
 autodiscover.tromso.no
-autodiscover.tromsø.no
 autodiscover.trondheim.no
 autodiscover.trust
 autodiscover.trust.museum
@@ -8142,7 +8054,6 @@ autodiscover.try-snowplow.com
 autodiscover.trycloudflare.com
 autodiscover.trysil.no
 autodiscover.træna.no
-autodiscover.trøgstad.no
 autodiscover.ts.it
 autodiscover.tselinograd.su
 autodiscover.tsk.tr
@@ -8218,7 +8129,6 @@ autodiscover.tysnes.no
 autodiscover.tysvar.no
 autodiscover.tysvær.no
 autodiscover.tz
-autodiscover.tønsberg.no
 autodiscover.u.bg
 autodiscover.u.channelsdvr.net
 autodiscover.u.se
@@ -8382,7 +8292,6 @@ autodiscover.va.us
 autodiscover.vaapste.no
 autodiscover.vacations
 autodiscover.vadso.no
-autodiscover.vadsø.no
 autodiscover.vaga.no
 autodiscover.vagan.no
 autodiscover.vagsoy.no
@@ -8418,7 +8327,6 @@ autodiscover.vao.it
 autodiscover.vapor.cloud
 autodiscover.vaporcloud.io
 autodiscover.vardo.no
-autodiscover.vardø.no
 autodiscover.varese.it
 autodiscover.varggat.no
 autodiscover.varoy.no
@@ -8456,7 +8364,6 @@ autodiscover.vestnes.no
 autodiscover.vestre-slidre.no
 autodiscover.vestre-toten.no
 autodiscover.vestvagoy.no
-autodiscover.vestvågøy.no
 autodiscover.vet
 autodiscover.vet.br
 autodiscover.veterinaire.fr
@@ -8547,11 +8454,8 @@ autodiscover.vv.it
 autodiscover.vxl.sh
 autodiscover.várggát.no
 autodiscover.vågan.no
-autodiscover.vågsøy.no
 autodiscover.vågå.no
 autodiscover.våler.hedmark.no
-autodiscover.våler.østfold.no
-autodiscover.værøy.no
 autodiscover.w.bg
 autodiscover.w.se
 autodiscover.wa.au
