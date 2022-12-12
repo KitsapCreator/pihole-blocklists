@@ -573,7 +573,6 @@ autodiscover.ballangen.no
 autodiscover.ballooning.aero
 autodiscover.balsan-sudtirol.it
 autodiscover.balsan-suedtirol.it
-autodiscover.balsan-südtirol.it
 autodiscover.balsan.it
 autodiscover.balsfjord.no
 autodiscover.baltimore.museum
@@ -662,7 +661,6 @@ autodiscover.be.ax
 autodiscover.be.eu.org
 autodiscover.be.gy
 autodiscover.bearalvahki.no
-autodiscover.bearalváhki.no
 autodiscover.beardu.no
 autodiscover.beats
 autodiscover.beauty
@@ -686,7 +684,6 @@ autodiscover.bergbau.museum
 autodiscover.bergen.no
 autodiscover.berkeley.museum
 autodiscover.berlevag.no
-autodiscover.berlevåg.no
 autodiscover.berlin
 autodiscover.berlin.museum
 autodiscover.bern.museum
@@ -720,7 +717,6 @@ autodiscover.bielawa.pl
 autodiscover.biella.it
 autodiscover.bieszczady.pl
 autodiscover.bievat.no
-autodiscover.bievát.no
 autodiscover.bifuka.hokkaido.jp
 autodiscover.bihoro.hokkaido.jp
 autodiscover.bike
@@ -920,7 +916,6 @@ autodiscover.box
 autodiscover.boxfuse.io
 autodiscover.bozen-sudtirol.it
 autodiscover.bozen-suedtirol.it
-autodiscover.bozen-südtirol.it
 autodiscover.bozen.it
 autodiscover.bplaced.com
 autodiscover.bplaced.de
@@ -974,7 +969,6 @@ autodiscover.builtwithdark.com
 autodiscover.bukhara.su
 autodiscover.bulsan-sudtirol.it
 autodiscover.bulsan-suedtirol.it
-autodiscover.bulsan-südtirol.it
 autodiscover.bulsan.it
 autodiscover.bungoono.oita.jp
 autodiscover.bungotakada.oita.jp
@@ -1745,7 +1739,6 @@ autodiscover.dattolocal.net
 autodiscover.dattorelay.com
 autodiscover.dattoweb.com
 autodiscover.davvenjarga.no
-autodiscover.davvenjárga.no
 autodiscover.davvesiida.no
 autodiscover.day
 autodiscover.dazaifu.fukuoka.jp
@@ -2278,7 +2271,6 @@ autodiscover.eus
 autodiscover.evenassi.no
 autodiscover.evenes.no
 autodiscover.events
-autodiscover.evenášši.no
 autodiscover.evje-og-hornnes.no
 autodiscover.ex.futurecms.at
 autodiscover.ex.ortsinfo.at
@@ -2437,7 +2429,6 @@ autodiscover.flt.cloud.muni.cz
 autodiscover.fly
 autodiscover.fly.dev
 autodiscover.flynnhosting.net
-autodiscover.flå.no
 autodiscover.fm
 autodiscover.fm.br
 autodiscover.fm.it
@@ -2754,7 +2745,6 @@ autodiscover.gifu.gifu.jp
 autodiscover.gifu.jp
 autodiscover.giize.com
 autodiscover.gildeskal.no
-autodiscover.gildeskål.no
 autodiscover.ginan.gifu.jp
 autodiscover.ginowan.okinawa.jp
 autodiscover.ginoza.okinawa.jp
@@ -3099,11 +3089,6 @@ autodiscover.gyeonggi.kr
 autodiscover.gyeongnam.kr
 autodiscover.gyokuto.kumamoto.jp
 autodiscover.gz.cn
-autodiscover.gáivuotna.no
-autodiscover.gálsá.no
-autodiscover.gáŋgaviika.no
-autodiscover.günstigbestellen.de
-autodiscover.günstigliefern.de
 autodiscover.h.bg
 autodiscover.h.se
 autodiscover.ha.cn
@@ -3335,7 +3320,6 @@ autodiscover.hole.no
 autodiscover.holiday
 autodiscover.holmestrand.no
 autodiscover.holtalen.no
-autodiscover.holtålen.no
 autodiscover.home-webserver.de
 autodiscover.home.dyndns.org
 autodiscover.homebuilt.aero
@@ -4400,8 +4384,6 @@ autodiscover.kyowa.akita.jp
 autodiscover.kyowa.hokkaido.jp
 autodiscover.kyuragi.saga.jp
 autodiscover.kz
-autodiscover.kárášjohka.no
-autodiscover.kåfjord.no
 autodiscover.l-o-g-i-n.de
 autodiscover.l.bg
 autodiscover.l.se
@@ -4428,7 +4410,6 @@ autodiscover.landes.museum
 autodiscover.landing.myjino.ru
 autodiscover.landrover
 autodiscover.langevag.no
-autodiscover.langevåg.no
 autodiscover.lans.museum
 autodiscover.lanxess
 autodiscover.lapy.pl
@@ -4579,7 +4560,6 @@ autodiscover.lincoln.museum
 autodiscover.lindas.no
 autodiscover.linde
 autodiscover.lindesnes.no
-autodiscover.lindås.no
 autodiscover.link
 autodiscover.linkyard-cloud.ch
 autodiscover.linkyard.cloud
@@ -4599,7 +4579,6 @@ autodiscover.llp
 autodiscover.ln.cn
 autodiscover.lo.it
 autodiscover.loabat.no
-autodiscover.loabát.no
 autodiscover.loan
 autodiscover.loans
 autodiscover.localhistory.museum
@@ -4697,9 +4676,6 @@ autodiscover.ly
 autodiscover.lyngdal.no
 autodiscover.lyngen.no
 autodiscover.lynx.mythic-beasts.com
-autodiscover.láhppi.no
-autodiscover.läns.museum
-autodiscover.lærdal.no
 autodiscover.m.bg
 autodiscover.m.se
 autodiscover.ma
@@ -4880,7 +4856,6 @@ autodiscover.menu
 autodiscover.meraker.no
 autodiscover.merckmsd
 autodiscover.merseine.nu
-autodiscover.meråker.no
 autodiscover.mesaverde.museum
 autodiscover.messina.it
 autodiscover.meteorapp.com
@@ -5172,7 +5147,6 @@ autodiscover.mov
 autodiscover.movie
 autodiscover.movimiento.bo
 autodiscover.mozilla-iot.org
-autodiscover.moåreke.no
 autodiscover.mp
 autodiscover.mp.br
 autodiscover.mq
@@ -5208,7 +5182,6 @@ autodiscover.munakata.fukuoka.jp
 autodiscover.muncie.museum
 autodiscover.muni.il
 autodiscover.muosat.no
-autodiscover.muosát.no
 autodiscover.mup.gov.pl
 autodiscover.murakami.niigata.jp
 autodiscover.murata.miyagi.jp
@@ -5312,10 +5285,6 @@ autodiscover.mytuleap.com
 autodiscover.myvnc.com
 autodiscover.mywire.org
 autodiscover.mz
-autodiscover.málatvuopmi.no
-autodiscover.mátta-várjjat.no
-autodiscover.målselv.no
-autodiscover.māori.nz
 autodiscover.n.bg
 autodiscover.n.se
 autodiscover.n4t.co
@@ -5851,8 +5820,6 @@ autodiscover.nyuzen.toyama.jp
 autodiscover.nz
 autodiscover.nz.basketball
 autodiscover.nz.eu.org
-autodiscover.návuotna.no
-autodiscover.nååmesjevuemie.no
 autodiscover.o.bg
 autodiscover.o.se
 autodiscover.oamishirasato.chiba.jp
@@ -6026,7 +5993,6 @@ autodiscover.opoczno.pl
 autodiscover.opole.pl
 autodiscover.oppdal.no
 autodiscover.oppegard.no
-autodiscover.oppegård.no
 autodiscover.or.at
 autodiscover.or.bi
 autodiscover.or.ci
@@ -6483,7 +6449,6 @@ autodiscover.porn
 autodiscover.porsanger.no
 autodiscover.porsangu.no
 autodiscover.porsgrunn.no
-autodiscover.porsáŋgu.no
 autodiscover.port.fr
 autodiscover.portal.museum
 autodiscover.portland.museum
@@ -6836,11 +6801,6 @@ autodiscover.ryukyu
 autodiscover.ryuoh.shiga.jp
 autodiscover.rzeszow.pl
 autodiscover.rzgw.gov.pl
-autodiscover.ráhkkerávju.no
-autodiscover.ráisa.no
-autodiscover.råde.no
-autodiscover.råholt.no
-autodiscover.rælingen.no
 autodiscover.s.bg
 autodiscover.s.se
 autodiscover.s3-ap-northeast-1.amazonaws.com
@@ -7350,12 +7310,10 @@ autodiscover.ski.museum
 autodiscover.ski.no
 autodiscover.skien.no
 autodiscover.skierva.no
-autodiscover.skiervá.no
 autodiscover.skin
 autodiscover.skiptvet.no
 autodiscover.skjak.no
 autodiscover.skjervoy.no
-autodiscover.skjåk.no
 autodiscover.sklep.pl
 autodiscover.sko.gov.pl
 autodiscover.skoczow.pl
@@ -7365,8 +7323,6 @@ autodiscover.sky
 autodiscover.skydiving.aero
 autodiscover.skygearapp.com
 autodiscover.skype
-autodiscover.skánit.no
-autodiscover.skånland.no
 autodiscover.sl
 autodiscover.slask.pl
 autodiscover.slattum.no
@@ -7390,8 +7346,6 @@ autodiscover.snasa.no
 autodiscover.sncf
 autodiscover.snillfjord.no
 autodiscover.snoasa.no
-autodiscover.snåase.no
-autodiscover.snåsa.no
 autodiscover.so
 autodiscover.so.gov.pl
 autodiscover.so.it
@@ -7632,9 +7586,6 @@ autodiscover.szczecin.pl
 autodiscover.szczytno.pl
 autodiscover.szex.hu
 autodiscover.szkola.pl
-autodiscover.sálat.no
-autodiscover.sálát.no
-autodiscover.südtirol.it
 autodiscover.t.bg
 autodiscover.t.se
 autodiscover.t3l3p0rt.net
@@ -8002,8 +7953,6 @@ autodiscover.trentin-sud-tirol.it
 autodiscover.trentin-sudtirol.it
 autodiscover.trentin-sued-tirol.it
 autodiscover.trentin-suedtirol.it
-autodiscover.trentin-süd-tirol.it
-autodiscover.trentin-südtirol.it
 autodiscover.trentino-a-adige.it
 autodiscover.trentino-aadige.it
 autodiscover.trentino-alto-adige.it
@@ -8014,8 +7963,6 @@ autodiscover.trentino-sud-tirol.it
 autodiscover.trentino-sudtirol.it
 autodiscover.trentino-sued-tirol.it
 autodiscover.trentino-suedtirol.it
-autodiscover.trentino-süd-tirol.it
-autodiscover.trentino-südtirol.it
 autodiscover.trentino.it
 autodiscover.trentinoa-adige.it
 autodiscover.trentinoaadige.it
@@ -8027,14 +7974,10 @@ autodiscover.trentinosud-tirol.it
 autodiscover.trentinosudtirol.it
 autodiscover.trentinosued-tirol.it
 autodiscover.trentinosuedtirol.it
-autodiscover.trentinosüd-tirol.it
-autodiscover.trentinosüdtirol.it
 autodiscover.trentinsud-tirol.it
 autodiscover.trentinsudtirol.it
 autodiscover.trentinsued-tirol.it
 autodiscover.trentinsuedtirol.it
-autodiscover.trentinsüd-tirol.it
-autodiscover.trentinsüdtirol.it
 autodiscover.trento.it
 autodiscover.treviso.it
 autodiscover.trieste.it
@@ -8196,7 +8139,6 @@ autodiscover.univ.sn
 autodiscover.university
 autodiscover.university.museum
 autodiscover.unjarga.no
-autodiscover.unjárga.no
 autodiscover.unnan.shimane.jp
 autodiscover.uno
 autodiscover.unusualperson.com
@@ -8340,7 +8282,6 @@ autodiscover.vefsn.no
 autodiscover.vega.no
 autodiscover.vegarshei.no
 autodiscover.vegas
-autodiscover.vegårshei.no
 autodiscover.ven.it
 autodiscover.veneto.it
 autodiscover.venezia.it
@@ -8353,8 +8294,6 @@ autodiscover.vercel.dev
 autodiscover.vercelli.it
 autodiscover.verdal.no
 autodiscover.verisign
-autodiscover.vermögensberater
-autodiscover.vermögensberatung
 autodiscover.verona.it
 autodiscover.verran.no
 autodiscover.versailles.museum
@@ -8452,10 +8391,6 @@ autodiscover.vu
 autodiscover.vuelos
 autodiscover.vv.it
 autodiscover.vxl.sh
-autodiscover.várggát.no
-autodiscover.vågan.no
-autodiscover.vågå.no
-autodiscover.våler.hedmark.no
 autodiscover.w.bg
 autodiscover.w.se
 autodiscover.wa.au
