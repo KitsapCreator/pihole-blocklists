@@ -1,4 +1,3 @@
-autodiscover.!www.ck
 autodiscover.0.bg
 autodiscover.001www.com
 autodiscover.0e.vc
@@ -8243,10 +8242,6 @@ autodiscover.vallee-d-aoste.it
 autodiscover.valleeaoste.it
 autodiscover.valleedaoste.it
 autodiscover.valley.museum
-autodiscover.vallée-aoste.it
-autodiscover.vallée-d-aoste.it
-autodiscover.valléeaoste.it
-autodiscover.valléedaoste.it
 autodiscover.vana
 autodiscover.vang.no
 autodiscover.vanguard
