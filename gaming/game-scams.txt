@@ -5055,7 +5055,6 @@ discxrd.gift
 discyrd.com
 disczrd.com
 disczrd.gift
-discörd.com
 disdornitro.com
 disdornitro.gifts
 disdorsnitro.com
@@ -5254,7 +5253,6 @@ disxord.com
 disxordapp.com
 diszcord.com
 diszcordapp.com
-disçordapp.com
 diucord.js.org
 diuscordapp.com
 divineenterprises.net
@@ -13584,7 +13582,6 @@ steamcommunyty.ru.com
 steamcommunyty.xyz
 steamcommunytytradeofferphobos.ru
 steamcommunytytradeofferphobos.rusteamcommuriity.com
-steamcommunìty.com
 steamcommuqity.com.ru
 steamcommuqity.ru
 steamcommuriity.com
