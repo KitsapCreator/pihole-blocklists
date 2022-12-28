@@ -735,6 +735,7 @@ mqtt.facebook.com
 mqtt.vvv.facebook.com
 ncontent.xx.fbcdn.net
 newsroom.fb.com
+nl-nl.facebook.com
 orcart.facebook.com
 origincache-ai-01-05-ash3.fbcdn.net
 origincache-ash.t.fbcdn.net
@@ -810,6 +811,7 @@ scontent-a-lga.xx.fbcdn.net
 scontent-a-lhr.xx.fbcdn.net
 scontent-a-mad.xx.fbcdn.net
 scontent-a-mia.xx.fbcdn.net
+scontent-ams3-1.xx.fbcdn.net
 scontent-ams4-1.xx.fbcdn.net
 scontent-ams.xx.fbcdn.net
 scontent-a-mxp.xx.fbcdn.net
