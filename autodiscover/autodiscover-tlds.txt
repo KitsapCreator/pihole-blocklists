@@ -2580,7 +2580,6 @@ autodiscover.frosinone.it
 autodiscover.frosta.no
 autodiscover.froya.no
 autodiscover.frusky.de
-autodiscover.fræna.no
 autodiscover.fst.br
 autodiscover.ftpaccess.cc
 autodiscover.ftr
@@ -4200,7 +4199,6 @@ autodiscover.kizu.kyoto.jp
 autodiscover.klabu.no
 autodiscover.klepp.no
 autodiscover.klodzko.pl
-autodiscover.klæbu.no
 autodiscover.km
 autodiscover.km.ua
 autodiscover.kmpsp.gov.pl
@@ -4360,8 +4358,6 @@ autodiscover.kvinesdal.no
 autodiscover.kvinnherad.no
 autodiscover.kviteseid.no
 autodiscover.kvitsoy.no
-autodiscover.kvæfjord.no
-autodiscover.kvænangen.no
 autodiscover.kw
 autodiscover.kwp.gov.pl
 autodiscover.kwpsp.gov.pl
@@ -4437,7 +4433,6 @@ autodiscover.leadpages.co
 autodiscover.leangaviika.no
 autodiscover.lease
 autodiscover.leasing.aero
-autodiscover.leaŋgaviika.no
 autodiscover.lebesby.no
 autodiscover.lebork.pl
 autodiscover.lebtimnetz.de
@@ -7990,7 +7985,6 @@ autodiscover.trv
 autodiscover.try-snowplow.com
 autodiscover.trycloudflare.com
 autodiscover.trysil.no
-autodiscover.træna.no
 autodiscover.ts.it
 autodiscover.tselinograd.su
 autodiscover.tsk.tr
@@ -8064,7 +8058,6 @@ autodiscover.tynset.no
 autodiscover.tysfjord.no
 autodiscover.tysnes.no
 autodiscover.tysvar.no
-autodiscover.tysvær.no
 autodiscover.tz
 autodiscover.u.bg
 autodiscover.u.channelsdvr.net
