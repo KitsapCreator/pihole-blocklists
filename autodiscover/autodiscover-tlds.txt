@@ -1161,9 +1161,7 @@ autodiscover.cern
 autodiscover.certification.aero
 autodiscover.certmgr.org
 autodiscover.cesena-forli.it
-autodiscover.cesena-forlì.it
 autodiscover.cesenaforli.it
-autodiscover.cesenaforlì.it
 autodiscover.cf
 autodiscover.cfa
 autodiscover.cfd
@@ -1586,7 +1584,6 @@ autodiscover.computer
 autodiscover.computer.museum
 autodiscover.computerhistory.museum
 autodiscover.comsec
-autodiscover.comunicações.museum
 autodiscover.condos
 autodiscover.conf.au
 autodiscover.conf.lv
@@ -1622,7 +1619,6 @@ autodiscover.cooperativa.bo
 autodiscover.copenhagen.museum
 autodiscover.copro.uk
 autodiscover.corporation.museum
-autodiscover.correios-e-telecomunicações.museum
 autodiscover.corsica
 autodiscover.corvette.museum
 autodiscover.cosenza.it
@@ -2462,8 +2458,6 @@ autodiscover.forgot.her.name
 autodiscover.forgot.his.name
 autodiscover.forli-cesena.it
 autodiscover.forlicesena.it
-autodiscover.forlì-cesena.it
-autodiscover.forlìcesena.it
 autodiscover.forsale
 autodiscover.forsand.no
 autodiscover.fortal.br
