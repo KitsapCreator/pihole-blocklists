@@ -1,3 +1,0 @@
-- name: Upload to R2
-  uses: elementemerald/r2-upload-action@v1.1.2
-  with:
