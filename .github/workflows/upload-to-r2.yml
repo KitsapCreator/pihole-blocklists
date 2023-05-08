@@ -9,4 +9,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: R2 Upload Action
-        uses:
+        uses: actions/r2-upload-action.yml
