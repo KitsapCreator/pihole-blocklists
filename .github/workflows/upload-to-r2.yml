@@ -1,4 +1,5 @@
 name: Upload to R2
+run-name: Upload to R2
 - uses: elementemerald/r2-upload-action@v1.1.2
     with:
       r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
