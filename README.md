@@ -18,21 +18,21 @@ This domain uses Cloudflare [Pages](https://pages.cloudflare.com/) and [CDN](htt
 
 The following is two merged lists - one for all supported social platforms (Facebook, Tiktok, Reddit, etc.) and one for all general lists (Ads, Malware, Scams, etc.).
 
-## Social List
+### Social List
 
 `https://blocklists.kitsapcreator.com/social/social-combined.txt`
 
-## General List
+### General List
 
 `https://blocklists.kitsapcreator.com/social/general-combined.txt`
 
-## One and Done
+### One and Done
 
 Want one list to rule them all? Look no further.
 
 `https://blocklists.kitsapcreator.com/all-lists.txt`
 
-## Contribute
+# Contribute
 
 1. Start by searching lists for the domains you wish to propose additions to avoid duplicates.
 2. Fork the repo, make your changes, then create a pull request so changes can be discussed.
@@ -42,7 +42,7 @@ Want one list to rule them all? Look no further.
 - Before creating an issue, look to see if your problem has already been raised by someone else to prevent duplicate issues.
 - If you don't want to mess around with editing files and creating a pull request yourself, simply create an issue with the domain(s) that you propose to add along with what list you propose to put them in.
 
-## Tips and Tricks
+# Tips and Tricks
 
 - Use forks to regulate list updates if you don't want frequent changes. In this way you control when changes reach your setup.
 
