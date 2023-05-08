@@ -1,0 +1,12 @@
+name: Upload to R2
+run-name: Upload to R2
+on: [push]
+jobs:
+  upload-to-r2:
+    name: Upload to R2
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: R2 Upload Action
+        uses:
