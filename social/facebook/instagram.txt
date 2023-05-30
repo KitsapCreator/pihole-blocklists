@@ -1,8 +1,6 @@
 api.instagram.com
 black.ish.instagram.com
 i.instagram.com
-instagram.c10r.facebook.com
-instagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net
@@ -52,12 +50,14 @@ instagram-shv-12-prn1.fbcdn.net
 instagram-shv-13-frc1.fbcdn.net
 instagram-shv-17-prn1.fbcdn.net
 instagram-shv-18-prn1.fbcdn.net
+instagram.c10r.facebook.com
+instagram.com
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
 logger.instagram.com
 platform.instagram.com
-scontent.cdninstagram.com
 scontent-iad3-1.cdninstagram.com
+scontent.cdninstagram.com
 telegraph-ash.instagram.com
 white.ish.instagram.com
 www.instagram.com
