@@ -1,0 +1,30 @@
+name: Sync Lists to Cloudflare R2
+
+on: [push]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone
+        run: |
+          echo "[r2]
+          type = s3
+          provider = Cloudflare
+          env_auth = false
+          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          region = auto
+          endpoint = https://${{ secrets.CF_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          " > ~/.config/rclone/rclone.conf
+
+      - name: Sync to S3
+        run: rclone sync . r2:pihole-blocklists --progress
