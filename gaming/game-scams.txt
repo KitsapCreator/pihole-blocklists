@@ -1,4 +1,3 @@
-! ↓  Custom Domains ↓
 02ip.ru
 0nekey.com
 0x1trade.com
@@ -1135,7 +1134,6 @@ classic-nitro.com
 classicnitro.com
 clc.am
 clck.ru
-clck.ru/afxkh
 cleanphonefast.com
 click2click.xyz
 click4skin.com
@@ -1872,9 +1870,6 @@ cupgoo.xyz
 cupwin.xyz
 cur.lv
 curiouscat.club
-cutt.ly/2ob8ast
-cutt.ly/ruroesy
-cutt.ly/xulrfyy
 cxroblox.com
 cyber-csgo.link
 cyber-csgo.space
@@ -9840,7 +9835,6 @@ infoskins.net
 infotrackbot.com
 infotrackerbot.com
 infringementcommunity-rules.com
-inlnk.ru/dnYPDK
 insignia-game.github.io
 inspirationhistorical.com
 instagolds.ru
@@ -10008,7 +10002,6 @@ ipv6.grabify.link
 iroblox.cam
 irockhiphop.com
 iron-nitro.com
-is.gd/3iztxp
 iscord.club
 iscord.gift
 iscord.xyz
