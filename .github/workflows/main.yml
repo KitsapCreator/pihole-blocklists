@@ -27,5 +27,5 @@ jobs:
           endpoint = https://${{ secrets.CF_ACCOUNT_ID }}.r2.cloudflarestorage.com
           " > ~/.config/rclone/rclone.conf
 
-      - name: Sync to S3
+      - name: Sync to R2
         run: rclone sync . r2:pihole-blocklists --progress
