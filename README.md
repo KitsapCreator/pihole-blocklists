@@ -6,11 +6,9 @@ In the spirit of pihole users and creators, I wanted to create my own blocklists
 
 The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time. These lists are collections of domains I have come across or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases.
 
-# Behind the Scenes
-
 ## How it works
 
-`blocklists.kitsapcreator.com` uses Cloudflare [R2](https://www.cloudflare.com/products/r2/) (S3-compatible object storage) and [CDN](https://www.cloudflare.com/cdn/) for fast global delivery.
+All lists are hosted at `blocklists.kitsapcreator.com`. This domain uses Cloudflare [R2](https://www.cloudflare.com/products/r2/) (S3-compatible object storage) and [CDN](https://www.cloudflare.com/cdn/) for fast global delivery.
 
 Updates are synced to R2 via a Github Action that uses [rclone](https://rclone.org/) to upload new file versions. Feel free to duplicate what I've put together here if you need a similar Github Action.
 
@@ -24,65 +22,65 @@ All lists are accessible using `https://blocklists.kitsapcreator.com/<file-name-
 
 ### Ads
 
-- `https://blocklists.kitsapcreator.com/ads.txt`
+- https://blocklists.kitsapcreator.com/ads.txt
 
 ### General
 
-- `https://blocklists.kitsapcreator.com/general.txt`
+- https://blocklists.kitsapcreator.com/general.txt
 
 ### Malware/Malicious
 
-- `https://blocklists.kitsapcreator.com/malware-malicious.txt`
+- https://blocklists.kitsapcreator.com/malware-malicious.txt
 
 ### Scams/Spam
 
-- `https://blocklists.kitsapcreator.com/scam-spam.txt`
+- https://blocklists.kitsapcreator.com/scam-spam.txt
 
 ## Social Lists - Facebook/Meta and related properties
 
 ### Facebook:
 
-- `https://blocklists.kitsapcreator.com/social/facebook/facebook.txt`
+- https://blocklists.kitsapcreator.com/social/facebook/facebook.txt
 
 ### Facebook Messenger
 
-- `https://blocklists.kitsapcreator.com/social/facebook/messenger.txt`
+- https://blocklists.kitsapcreator.com/social/facebook/messenger.txt
 
 ### Instagram
 
-- `https://blocklists.kitsapcreator.com/social/facebook/instagram.txt`
+- https://blocklists.kitsapcreator.com/social/facebook/instagram.txt
 
 ### Whatsapp
 
-- `https://blocklists.kitsapcreator.com/social/facebook/whatsapp.txt`
+- https://blocklists.kitsapcreator.com/social/facebook/whatsapp.txt
 
 ## Social Lists - Other properties
 
 ### Reddit
 
-- `https://blocklists.kitsapcreator.com/social/reddit.txt`
+- https://blocklists.kitsapcreator.com/social/reddit.txt
 
 ### Snapchat
 
-- `https://blocklists.kitsapcreator.com/social/snapchat.txt`
+- https://blocklists.kitsapcreator.com/social/snapchat.txt
 
 ### Tiktok
 
-- `https://blocklists.kitsapcreator.com/social/tiktok.txt`
+- https://blocklists.kitsapcreator.com/social/tiktok.txt
 
 ### Twitter
 
-- `https://blocklists.kitsapcreator.com/social/twitter.txt`
+- https://blocklists.kitsapcreator.com/social/twitter.txt
 
 ## Game Scams (Discord scams, etc)
 
-- `https://blocklists.kitsapcreator.com/gaming/game-scams.txt`
+- https://blocklists.kitsapcreator.com/gaming/game-scams.txt
 
 ## Microsoft Exchange autodiscover flaw
 
 Learn more about this in the [readme](autodiscover/readme.md).
 
-- `https://blocklists.kitsapcreator.com/autodiscover/autodiscover-tlds.txt`
+- https://blocklists.kitsapcreator.com/autodiscover/autodiscover-tlds.txt
 
 ## Combined Lists
 
@@ -90,17 +88,17 @@ The following is two merged lists - one for all supported social platforms (Face
 
 ### Block all supported social media
 
-- `https://blocklists.kitsapcreator.com/social-combined.txt`
+- https://blocklists.kitsapcreator.com/social-combined.txt
 
 ### Block all General items
 
-- `https://blocklists.kitsapcreator.com/general-combined.txt`
+- https://blocklists.kitsapcreator.com/general-combined.txt
 
 ## One and Done
 
 Want one list to rule them all? Look no further.
 
-- `https://blocklists.kitsapcreator.com/all-lists.txt`
+- https://blocklists.kitsapcreator.com/all-lists.txt
 
 # Contribute
 
