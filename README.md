@@ -1,18 +1,20 @@
 # Summary
 
-In the spirit of pihole users and creators, I wanted to create my own blocklists. I decided to share them with the world to help contribute to the overall community. Feel free to copy these lists and use them in your own list project, or however you wish.
+In the spirit of pihole users and creators, I was inspired to create my own bnlocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody.
 
 # Disclaimer
 
-The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time. These lists are collections of domains I have come across or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases.
+The lists contained here are provided as is, with no warranty as to their accuracy (also see the [license](/LICENSE)). It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time.
 
-## How it works
+These lists are collections of domains I have come across or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases. I also do my best to credit sources as applicable. Credits, if any, will be listed in the commit messages of relevant commits.
 
-All lists are hosted at `blocklists.kitsapcreator.com`. This domain uses Cloudflare [R2](https://www.cloudflare.com/products/r2/) (S3-compatible object storage) and [CDN](https://www.cloudflare.com/cdn/) for fast global delivery.
+# How it works
+
+All lists are hosted at my domain `blocklists.kitsapcreator.com`. This domain uses Cloudflare [R2](https://www.cloudflare.com/products/r2/) (S3-compatible object storage) and [CDN](https://www.cloudflare.com/cdn/) for fast global delivery.
 
 Updates are synced to R2 via a Github Action that uses [rclone](https://rclone.org/) to upload new file versions. Feel free to duplicate what I've put together here if you need a similar Github Action.
 
-Feel free to pull updates as often as you wish; the more the merrier.
+Feel free to ping the lists as often as you wish; the more the merrier.
 
 # Start Using
 
@@ -20,13 +22,13 @@ All lists are accessible using `https://blocklists.kitsapcreator.com/<file-name-
 
 ## Standard Lists
 
-### Ads
-
-- https://blocklists.kitsapcreator.com/ads.txt
-
 ### General
 
 - https://blocklists.kitsapcreator.com/general.txt
+
+### Ads
+
+- https://blocklists.kitsapcreator.com/ads.txt
 
 ### Malware/Malicious
 
@@ -96,7 +98,7 @@ The following is two merged lists - one for all supported social platforms (Face
 
 ## One and Done
 
-Want one list to rule them all? Look no further.
+Want one list to rule them all? Look no further. This file has ALL domains from every list in this repo. Handle with care!
 
 - https://blocklists.kitsapcreator.com/all-lists.txt
 
@@ -108,7 +110,7 @@ Want one list to rule them all? Look no further.
 - Use these same steps can be used when proposing subtractions.
 - Use the Issues tab to report false positives and other problems.
 - Before creating an issue, look to see if your problem has already been raised by someone else to prevent duplicate issues.
-- If you don't want to mess around with editing files and creating a pull request yourself, simply create an issue with the domain(s) that you propose to add along with what list you propose to put them in.
+- If you don't want to edit files and create a pull request yourself, simply create an issue with the domain(s) that you propose to add along with what list you propose to put them in.
 
 # Tips and Tricks
 
