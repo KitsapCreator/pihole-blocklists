@@ -1,6 +1,6 @@
 # Summary
 
-In the spirit of pihole users and creators, I was inspired to create my own bnlocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody.
+In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody.
 
 # Disclaimer
 
