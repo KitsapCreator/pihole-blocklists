@@ -5537,7 +5537,6 @@ htbnbcrm.com
 htislimited.com
 html.house
 htmlco1.com
-https
 https-myetherwallet.net
 httpsmyetherwallet.com
 httpsmyetherwallet.pw
@@ -10189,7 +10188,6 @@ myetherwallet.you
 myetherwallet.youtube
 myetherwallet.yt
 myetherwallet.yun
-myetherwallet.z
 myetherwallet.za
 myetherwallet.zappos
 myetherwallet.zara
