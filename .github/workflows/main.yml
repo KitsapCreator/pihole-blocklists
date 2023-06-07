@@ -28,4 +28,4 @@ jobs:
           " > ~/.config/rclone/rclone.conf
 
       - name: Sync to R2
-        run: rclone sync . r2:pihole-blocklists --progress --exclude .git/** --exclude .github/** --exclude **/*.md --exclude LICENSE
+        run: rclone sync . r2:pihole-blocklists --progress --exclude .git/ --exclude .github/ --exclude *.md --exclude LICENSE
