@@ -640,6 +640,7 @@ facebook-web-clients.appspot.com
 facebook.com
 facebook.de
 facebook.fr
+facebook.net
 fb.com
 fb.me
 fbcdn-photos-a.akamaihd.net
