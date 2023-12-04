@@ -90,15 +90,17 @@ Learn more about this in the [readme](autodiscover/readme.md).
 
 ## Combined Lists
 
-The following is two merged lists - one for all supported social platforms (Facebook, Tiktok, Reddit, etc.) and one for all general lists (Ads, Malware, Scams, etc.).
+### Block all General items
+
+_Combines Ads, Adult, Autodiscover Flaw, Malware/Malicious, Game Scams, and Scams/Spam_
+
+- https://blocklists.kitsapcreator.com/general-combined.txt
 
 ### Block all supported social media
 
+_Combines Facebook, Reddit, Snapchat, Tiktok, and Twitter/X_
+
 - https://blocklists.kitsapcreator.com/social-combined.txt
-
-### Block all General items
-
-- https://blocklists.kitsapcreator.com/general-combined.txt
 
 ## One and Done
 
