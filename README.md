@@ -1,12 +1,12 @@
 # Summary
 
-In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody.
+In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebod (see the [license](/LICENSE)).
 
 # Disclaimer
 
-The lists contained here are provided as is, with no warranty as to their accuracy (also see the [license](/LICENSE)). It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time.
+The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time.
 
-These lists are collections of domains I have come across or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases. I also do my best to credit sources as applicable. Credits, if any, will be listed in the commit messages of relevant commits.
+These lists are collections of domains I have come across in my time on the interwebs or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases. I also do my best to credit sources as applicable. Credits, if any, will be listed in the commit messages of relevant commits.
 
 # How it works
 
@@ -29,6 +29,10 @@ All lists are accessible using `https://blocklists.kitsapcreator.com/<file-name-
 ### Ads
 
 - https://blocklists.kitsapcreator.com/ads.txt
+
+### Adult Content
+
+- https://blocklists.kitsapcreator.com/adult.txt
 
 ### Malware/Malicious
 
@@ -70,7 +74,7 @@ All lists are accessible using `https://blocklists.kitsapcreator.com/<file-name-
 
 - https://blocklists.kitsapcreator.com/social/tiktok.txt
 
-### Twitter
+### Twitter/X
 
 - https://blocklists.kitsapcreator.com/social/twitter.txt
 
@@ -115,6 +119,7 @@ Want one list to rule them all? Look no further. This file has ALL domains from 
 # Tips and Tricks
 
 - Use forks to regulate list updates if you don't want frequent changes. In this way you control when changes reach your setup.
+- Consider using indvidual lists instead of the combined lists if you want more control over what is blocked.
 
 # Notes
 
