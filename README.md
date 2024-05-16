@@ -1,12 +1,16 @@
+# Quick Update - May 15th, 2024
+
+In the coming weeks and months, I will be rolling out some backend changes to how I manage this project. I also plan on adding a small dedicated website for this project, as well as moving to a new domain name. This will also allow me to rename some of the lists (Facebook/Meta lists are a prime example) and easily setup redirects to keep things from breaking. I will keep this README updated with the latest information as it becomes available. Stay tuned!
+
 # Summary
 
 In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody (see the [license](/LICENSE)).
 
 # Disclaimer
 
-The lists contained here are provided as is, with no warranty as to their accuracy. It is your responsibility to whitelist/blacklist as you see fit for your needs and your enviroment. These lists are provided free of charge, are open for use by anyone, and are maintained by myself in my spare time.
+The provided lists are offered without warranty for accuracy. It's your responsibility to customize them for your needs and environment. They're freely available for anyone to use and are maintained by myself in my spare time. While I strive to keep them current and accurate, I can't guarantee they're always up to date or 100% accurate.
 
-These lists are collections of domains I have come across in my time on the interwebs or seen in forums or other places, therefore these are not perfectly curated and vetted lists, however I try to do my best to avoid false positives and inaccuracies in all cases. I also do my best to credit sources as applicable. Credits, if any, will be listed in the commit messages of relevant commits.
+These lists consist of domains encountered during my time online or seen in various forums, and while they're not extensively curated or vetted, I do endeavor to minimize false positives and inaccuracies. Any credits will be attributed in relevant commit messages.
 
 # How it works
 
