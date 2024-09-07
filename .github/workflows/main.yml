@@ -12,7 +12,7 @@ jobs:
 
       - name: Install rclone
         run: |
-          curl https://rclone.org/install.sh | sudo bash
+          apt install rclone -y
 
       - name: Configure rclone
         run: |
