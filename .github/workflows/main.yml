@@ -11,8 +11,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install rclone
-        run: |
-          apt install rclone -y
+        run: sudo apt install rclone -y
 
       - name: Configure rclone
         run: |
