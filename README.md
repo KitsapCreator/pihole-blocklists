@@ -1,7 +1,3 @@
-# Quick Update - May 15th, 2024
-
-In the coming weeks and months, I will be rolling out some backend changes to how I manage this project. I also plan on adding a small dedicated website for this project, as well as moving to a new domain name. This will also allow me to rename some of the lists (Facebook/Meta lists are a prime example) and easily setup redirects to keep things from breaking. I will keep this README updated with the latest information as it becomes available. Stay tuned!
-
 # Summary
 
 In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody (see the [license](/LICENSE)).
