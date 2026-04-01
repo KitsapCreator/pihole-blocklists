@@ -1,3 +1,7 @@
+# Update - April 2026
+
+First off, the project is not dead! Just been busy with life and whatnot. That being said, I do plan on updating the lists again soon. In addition, I'm planning on making some infra changes, including a new domain name. I updated my username and domain name for my personal site awhile back, so I'm planning to move everything over to the new one (feel free to [check it out btw](https://clovismartin.com)). In the process, I'm going to clean up and reorganize the lists as well. All this will happen as I have time to dedicate to it. Stay tuned!
+
 # Summary
 
 In the spirit of pihole users and creators, I was inspired to create my own blocklists, and decided to share them with the world to help contribute to the community. Feel free to copy these lists and use them in your own list project, or however you wish, no need to credit me! All I care about is that this project helps somebody (see the [license](/LICENSE)).
